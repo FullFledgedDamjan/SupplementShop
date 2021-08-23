@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DamjanSamardzic02_17</string>
+    <string name="invalid_name">Please enter valid name</string>
+    <string name="invalid_price">Please enter price</string>
+    <string name="invalid_type">please enter 1 or 2</string>
+    <string name="invalid_surname">Please enter your surname</string>
+    <string name="Invalid_mail">Please enter valid email</string>
+    <string name="invalid_code">Please enter valid code</string>
+
+    <string-array name="payingMethod">
+<item>Choose your paying method</item>
+        <item>Credit card</item>
+        <item>Paypal</item>
+        <item>Paypal credit</item>
+
+
+    </string-array>
+</resources>
